@@ -1,2 +1,2 @@
-![rsschool-cv] (https://trubanov.github.io/rsschool-cv/)
 # Gleb Trubanov
+![GitHub](https://github.com/Trubanov)|![Telegram](https://t.me/ccrew10)|
