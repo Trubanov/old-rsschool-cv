@@ -1,2 +1,2 @@
-**Gleb** Trubanov
-hi
+#[rsschool-cv]# (https://trubanov.github.io/rsschool-cv/)
+**Gleb** **Trubanov**
