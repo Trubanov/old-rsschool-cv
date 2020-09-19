@@ -1,0 +1,27 @@
+.resume {
+    font-family: sans-serif;
+    margin: auto;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+#name {
+    margin-top: 8px;
+}
+
+#bold {
+    height: 4px;
+    border: 0;
+    background: rgb(128, 128, 128);
+    opacity: 0.3;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#thin {
+    opacity: 0.3;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
