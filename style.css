@@ -1,0 +1,68 @@
+.resume {
+    font-family: sans-serif;
+    margin: auto;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+#name {
+    margin-top: 8px;
+}
+
+#bold {
+    height: 4px;
+    border: 0;
+    background: rgb(128, 128, 128);
+    opacity: 0.3;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#thin {
+    opacity: 0.3;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+A {
+    color: rgb(53, 150, 241);
+    text-decoration: none;
+}
+
+A:visited {
+    color: rgb(53, 150, 241);
+}
+
+A:active {
+    color: rgb(53, 150, 241);
+}
+
+A:hover {
+    color: rgb(53, 150, 241);
+    text-decoration: underline;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 0.5px solid rgb(128, 128, 128, 0.3);
+    color: rgb(116, 220, 252);
+    width: 223px;
+}
+
+td {
+    border: 0.5px solid rgb(128, 128, 128, 0.3);
+    padding-top: 9px;
+    padding-right: 15px;
+    padding-left: 25px;
+    padding-bottom: 9px;
+}
+
+body {
+    background-color: rgb(247, 255, 255);
+}
